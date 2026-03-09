@@ -11,21 +11,21 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "Totoo ba jorie? 🤔",
+    "Jorie please... 🥺",
+    "Kapag ayaw mo, malulungkot ako ng sobra...",
+    "Ibaon mo na lang ako sa lupa... 😭",
     "Please??? 💔",
-    "Don't do this to me...",
+    "Wag mo gawin sakin to...",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Hindi mo ko mahuhuli jorie 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "try mong magsabi ng hindi muna... malalaman mo kung anong mangyayari 😏",
+    "sige, click mo yung No... isang beses lang 👀",
+    "Dali naaa!! Grrr 😈",
+    "click No, hinahamon kita 😏"
 ]
 
 let yesTeasedCount = 0
